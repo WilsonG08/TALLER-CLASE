@@ -29,7 +29,7 @@ while True:
 	# scaleFactor = 11,
 	# minNeighbors = 91,
 	# minSize=(50,78))
-	scaleFactor = 8,
+	scaleFactor = 7,
 	minNeighbors = 100,
 	minSize=(80,80))
 	
